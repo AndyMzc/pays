@@ -1,0 +1,60 @@
+
+/* v   garder ce code */
+#bgred {
+    background-color: red ;
+}
+
+#bggreen {
+    background-color: green;
+}
+
+#bgblue {
+    background-color: blue;
+}
+
+/* v  code Rama */
+
+h1{
+    color: tomato;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    font-size: larger;
+    font-weight: bold;
+    background-color: tomato;
+    color: white;
+    width: 10%;
+    text-align: center;
+    padding: 5px;
+    
+}
+.image{
+    width: 100%;
+}
+h2{
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    padding: 5px;
+}
+.flotteGauche{
+    float: left;
+    width: 25%;
+    margin: 5px;
+}
+
+.flotteDroite{
+    float: right;
+    width: 25%;
+    margin: 5px;
+}
+.images {
+    display: inline-block;
+    width: 25%;
+   
+}
